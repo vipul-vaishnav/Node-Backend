@@ -1,5 +1,5 @@
 {
-  "name": "node-tuts",
+  "name": "tuts",
   "version": "1.0.0",
   "description": "This is a Repo for the NodeJs Content",
   "main": "index.js",
@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.16"
-  }
+    "nodemon": "^2.0.16",
+    "superagent": "^7.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul-vaishnav/Node-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vipul-vaishnav/Node-Backend/issues"
+  },
+  "homepage": "https://github.com/vipul-vaishnav/Node-Backend#readme"
 }
